@@ -1,0 +1,20 @@
+<AssignmentItems xmlns="http://server.fseconomy.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="http://server.fseconomy.net/static/xsd/datafeed_assignments.xsd" total="29">
+<Assignment>
+<Id>253049101</Id>
+<Status>Enroute</Status>
+<Location>EBCI</Location>
+<From>EBCI</From>
+<Destination>EHGG</Destination>
+<Assignment>1 Pixel Charter Passenger</Assignment>
+<Amount>1</Amount>
+<Units>passengers</Units>
+<Pay>911.00</Pay>
+<PilotFee>0.00</PilotFee>
+<Expires>3 days</Expires>
+<ExpireDateTime>2017-12-01 06:01:56</ExpireDateTime>
+<Type>Trip-Only</Type>
+<Express>False</Express>
+<Locked>shareratje</Locked>
+<Comment/>
+</Assignment> 
+</AssignmentItems>
